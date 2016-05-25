@@ -5,5 +5,5 @@ Besides the latex file, a book back for printing and four extra documents are ne
 
 ![image](/screen_shot.png)
 
-This template is modified from an unkown lab-mates in [IDEA lab](https://idea.cs.nthu.edu.tw/).
+This template is modified from a graduated lab-mate 蔡碩恩 in [IDEA lab](https://idea.cs.nthu.edu.tw/).
 
